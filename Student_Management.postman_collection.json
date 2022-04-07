@@ -69,7 +69,7 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:9191/students/",
+					"raw": "http://localhost:9191/students/create",
 					"protocol": "http",
 					"host": [
 						"localhost"
